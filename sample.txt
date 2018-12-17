@@ -1,3 +1,2 @@
-Hello
-This is sample text file
+Hi, This is sample text file
 Owner is Aparna Nemani
